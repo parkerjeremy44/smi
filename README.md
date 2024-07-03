@@ -1,1 +1,1 @@
-# smi-project
+# SMI app
